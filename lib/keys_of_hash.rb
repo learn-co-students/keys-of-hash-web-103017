@@ -8,8 +8,6 @@ class Hash
         info << key
       end
     end
-
-
     info
   end
 end
